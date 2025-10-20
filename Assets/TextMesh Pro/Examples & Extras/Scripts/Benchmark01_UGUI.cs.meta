@@ -1,5 +1,6 @@
 fileFormatVersion: 2
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 guid: 8ef7be1c625941f7ba8ed7cc71718c0d
 MonoImporter:
   serializedVersion: 2
@@ -9,6 +10,9 @@ MonoImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+=======
+guid: f94b9dd6576ec7b439b44ccc29087bd6
+>>>>>>> Stashed changes
 =======
 guid: f94b9dd6576ec7b439b44ccc29087bd6
 >>>>>>> Stashed changes

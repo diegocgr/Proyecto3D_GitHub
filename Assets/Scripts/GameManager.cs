@@ -1,6 +1,6 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
-// using UnityEngine.EventSystems;
+using UnityEngine.EventSystems;
 
 public class GameManager : MonoBehaviour
 {

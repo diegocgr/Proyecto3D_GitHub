@@ -1,5 +1,6 @@
 fileFormatVersion: 2
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 guid: 8878a782f4334ecbbcf683b3ac780966
 TextureImporter:
   fileIDToRecycleName: {}
@@ -11,6 +12,8 @@ TextureImporter:
     sRGBTexture: 0
     linearTexture: 1
 =======
+=======
+>>>>>>> Stashed changes
 guid: 668217d51c6446740a1b10f47696449d
 TextureImporter:
   internalIDToNameTable: []
@@ -21,6 +24,9 @@ TextureImporter:
     enableMipMap: 1
     sRGBTexture: 1
     linearTexture: 0
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     fadeOut: 0
     borderMipMap: 0
@@ -31,6 +37,7 @@ TextureImporter:
   bumpmap:
     convertToNormalMap: 0
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     externalNormalMap: 1
     heightScale: 0.25
     normalMapFilter: 0
@@ -38,6 +45,8 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
 =======
+=======
+>>>>>>> Stashed changes
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
@@ -47,11 +56,15 @@ TextureImporter:
   streamingMipmapsPriority: 0
   vTOnly: 0
   ignoreMipmapLimit: 0
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
   seamlessCubemap: 0
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
   textureFormat: -1
   maxTextureSize: 512
@@ -64,6 +77,8 @@ TextureImporter:
     wrapV: 1
     wrapW: 1
 =======
+=======
+>>>>>>> Stashed changes
   textureFormat: 1
   maxTextureSize: 2048
   textureSettings:
@@ -74,6 +89,9 @@ TextureImporter:
     wrapU: 0
     wrapV: 0
     wrapW: 0
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
   nPOTScale: 1
   lightmap: 0
@@ -90,6 +108,7 @@ TextureImporter:
   alphaIsTransparency: 0
   spriteTessellationDetail: -1
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   textureType: 1
   textureShape: 1
   singleChannelComponent: 0
@@ -101,6 +120,8 @@ TextureImporter:
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 512
 =======
+=======
+>>>>>>> Stashed changes
   textureType: 0
   textureShape: 1
   singleChannelComponent: 0
@@ -117,6 +138,9 @@ TextureImporter:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     resizeAlgorithm: 0
     textureFormat: -1
@@ -125,6 +149,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
     androidETC2FallbackOverride: 0
   - serializedVersion: 2
@@ -164,12 +189,17 @@ TextureImporter:
     buildTarget: WebGL
     maxTextureSize: 512
 =======
+=======
+>>>>>>> Stashed changes
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
     buildTarget: Standalone
     maxTextureSize: 2048
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     resizeAlgorithm: 0
     textureFormat: -1
@@ -179,7 +209,13 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     androidETC2FallbackOverride: 0
+=======
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+>>>>>>> Stashed changes
 =======
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
@@ -190,31 +226,43 @@ TextureImporter:
     sprites: []
     outline: []
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     physicsShape: []
     bones: []
     spriteID: 
 =======
+=======
+>>>>>>> Stashed changes
     customData: 
     physicsShape: []
     bones: []
     spriteID: 
     internalID: 0
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     vertices: []
     indices: 
     edges: []
     weights: []
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
 =======
+=======
+>>>>>>> Stashed changes
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
     nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
   userData: 
   assetBundleName: 
